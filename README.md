@@ -1,8 +1,11 @@
 # Nicolas Cicerchia
 Computer Engineering Student @University of Rome Tor Vergata
+
 ---
+
 ## 🧠 Focus
 Software Development • Cybersecurity • Networking • Operating Systems
+
 ---
 ## 🔗 Links
 - 🌐 Resume
