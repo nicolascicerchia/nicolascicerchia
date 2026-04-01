@@ -8,7 +8,7 @@ Cybersecurity • Software Development • Networking • Operating Systems
 ## 🔗 Links
 - 🌐 Resume (Web): https://<username>.github.io/cv/
 - 📄 Resume (PDF): https://drive.google.com/uc?export=download&id=FILE_ID
-- 🔗 LinkedIn: https://www.linkedin.com/in/<your-profile>
+- 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-cicerchia
 
 ---
 
@@ -16,8 +16,8 @@ Cybersecurity • Software Development • Networking • Operating Systems
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
 
 ### Systems & Tools
