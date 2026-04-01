@@ -6,9 +6,9 @@ Cybersecurity • Software Development • Networking • Operating Systems
 ---
 
 ## 🔗 Links
-- 🌐 Resume (Web): https://<username>.github.io/cv/
-- 📄 Resume (PDF): https://drive.google.com/uc?export=download&id=FILE_ID
-- 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-cicerchia
+- 🌐 [Resume (Web)] (https://nicolascicerchia.github.io/cv/)
+- 📄 [Resume (PDF)] (https://drive.google.com/uc?export=download&id=1dpZCWFMkJNnFCNFo9yoL_sA80EGQEAZn)
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/nicolas-cicerchia)
 
 ---
 
@@ -32,4 +32,4 @@ Cybersecurity • Software Development • Networking • Operating Systems
 ---
 
 ## 🧪 Labs 
-- Operating Systems labs: https://github.com/nicolascicerchia/linux-systems-engineering-labs
+- [Operating Systems labs] (https://github.com/nicolascicerchia/linux-systems-engineering-labs)
