@@ -32,4 +32,4 @@ Cybersecurity • Software Development • Networking • Operating Systems
 ---
 
 ## 🧪 Labs 
-- Operating Systems labs: 
+- Operating Systems labs: https://github.com/nicolascicerchia/linux-systems-engineering-labs
