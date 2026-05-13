@@ -39,4 +39,4 @@ inventory management, SQL procedures and concurrency handling.
 
 **Tech:** MySQL/MariaDB, Java, JDBC, DBeaver, IntelliJ IDEA
 
-🔗 [Repository]()
+🔗 [Repository](https://github.com/nicolascicerchia/pharmacy-dbms)
