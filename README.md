@@ -31,5 +31,12 @@ Software Development • Cybersecurity • Networking • Operating Systems
 
 ---
 
-## Projects
-- [Pharmacy database management system]()
+## 🚀 Projects
+
+### Pharmacy DBMS
+Full-stack university database project focused on
+inventory management, SQL procedures and concurrency handling.
+
+**Tech:** MySQL/MariaDB, Java, JDBC, DBeaver, IntelliJ IDEA
+
+🔗 [Repository]()
