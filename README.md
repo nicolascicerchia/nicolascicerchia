@@ -1,13 +1,13 @@
 # Nicolas Cicerchia
 
 Computer Engineering Student  
-Cybersecurity • Software Development • Networking • Operating Systems
+Software Development • Cybersecurity • Networking • Operating Systems
 
 ---
 
 ## 🔗 Links
-- 🌐 [Resume (Web)](https://nicolascicerchia.github.io/cv/)
-- 📄 [Resume (PDF)](https://drive.google.com/uc?export=download&id=1dpZCWFMkJNnFCNFo9yoL_sA80EGQEAZn)
+- 📄 [English resume (PDF)](https://drive.google.com/uc?export=download&id=1dpZCWFMkJNnFCNFo9yoL_sA80EGQEAZn)
+- 📄 [Italian resume (PDF)](https://drive.google.com/uc?export=download&id=)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-cicerchia)
 
 ---
@@ -31,5 +31,5 @@ Cybersecurity • Software Development • Networking • Operating Systems
 
 ---
 
-## 🧪 Labs 
-- [Operating Systems labs](https://github.com/nicolascicerchia/linux-systems-engineering-labs)
+## Projects
+- [Pharmacy database management system]()
