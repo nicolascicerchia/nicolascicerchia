@@ -37,6 +37,6 @@ Software Development • Cybersecurity • Networking • Operating Systems
 Full-stack university database project focused on
 inventory management, SQL procedures and concurrency handling.
 
-**Tech:** MySQL/MariaDB, Java, JDBC, DBeaver, IntelliJ IDEA
+**Tech:** MySQL, Java, JDBC, DBeaver, IntelliJ IDEA
 
 🔗 [Repository](https://github.com/nicolascicerchia/pharmacy-dbms)
