@@ -6,8 +6,8 @@ Software Development • Cybersecurity • Networking • Operating Systems
 ---
 
 ## 🔗 Links
-- 📄 [English resume (PDF)](https://drive.google.com/uc?export=download&id=1dpZCWFMkJNnFCNFo9yoL_sA80EGQEAZn)
-- 📄 [Italian resume (PDF)](https://drive.google.com/uc?export=download&id=)
+- 📄 [English resume (PDF)](https://drive.google.com/uc?export=download&id=1-dLr0CI9UDRlheiiCRSnpqVOUNjDLvJG)
+- 📄 [Italian resume (PDF)](https://drive.google.com/uc?export=download&id=1nLO5fS8loQKHeKs1dcARsowlyWUb4uKA)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-cicerchia)
 
 ---
